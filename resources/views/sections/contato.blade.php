@@ -8,9 +8,9 @@
         <div class="card py-4 h-100">
           <div class="card-body text-center">
             <i class="fas fa-map-marked-alt text-primary mb-2"></i>
-            <h4 class="text-uppercase m-0">Address</h4>
+            <h4 class="text-uppercase m-0">Endereço</h4>
             <hr class="my-4">
-            <div class="small text-black-50">4923 Market Street, Orlando FL</div>
+            <div class="small text-black-50">Rua Dona Alzira 158, Sarandi POA</div>
           </div>
         </div>
       </div>
@@ -22,7 +22,7 @@
             <h4 class="text-uppercase m-0">Email</h4>
             <hr class="my-4">
             <div class="small text-black-50">
-              <a href="#">hello@yourdomain.com</a>
+              <a href="#">contato@ibnpoa.com.br</a>
             </div>
           </div>
         </div>
@@ -34,7 +34,7 @@
             <i class="fas fa-mobile-alt text-primary mb-2"></i>
             <h4 class="text-uppercase m-0">Phone</h4>
             <hr class="my-4">
-            <div class="small text-black-50">+1 (555) 902-8832</div>
+            <div class="small text-black-50">+55 (51) 9902-8832</div>
           </div>
         </div>
       </div>
@@ -44,10 +44,10 @@
       <a href="#" class="mx-2">
         <i class="fab fa-twitter"></i>
       </a>
-      <a href="#" class="mx-2">
+      <a target="_blank" href="https://www.facebook.com/ibnpoa12/?epa=SEARCH_BOX" class="mx-2">
         <i class="fab fa-facebook-f"></i>
       </a>
-      <a href="#" class="mx-2">
+      <a target="_blank" href="https://github.com/iagosilvamelo" class="mx-2">
         <i class="fab fa-github"></i>
       </a>
     </div>
