@@ -3,7 +3,8 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta name="description" content="E se sua vida fizer sentido?">
-  <meta name="author" content="">
+  <meta name="author" content="Iago Fabricio Silva Melo">
+  <link rel="shortcut icon" href="favicon.ico" />
 
   <title>IBN - Porto Alegre</title>
 

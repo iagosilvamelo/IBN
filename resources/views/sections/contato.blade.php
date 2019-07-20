@@ -41,14 +41,14 @@
     </div>
 
     <div class="social d-flex justify-content-center">
-      <a href="#" class="mx-2">
+      <a target="_blank" href="https://twitter.com/ibnpoa12" class="mx-2">
         <i class="fab fa-twitter"></i>
       </a>
       <a target="_blank" href="https://www.facebook.com/ibnpoa12/?epa=SEARCH_BOX" class="mx-2">
         <i class="fab fa-facebook-f"></i>
       </a>
-      <a target="_blank" href="https://github.com/iagosilvamelo" class="mx-2">
-        <i class="fab fa-github"></i>
+      <a target="_blank" href="https://www.instagram.com/ibnpoa12" class="mx-2">
+        <i class="fab fa-instagram"></i>
       </a>
     </div>
 
